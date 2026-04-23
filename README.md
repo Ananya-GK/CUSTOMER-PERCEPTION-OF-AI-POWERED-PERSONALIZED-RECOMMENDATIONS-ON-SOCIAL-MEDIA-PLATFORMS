@@ -32,10 +32,9 @@ Understanding user trust and behavior towards AI recommendations is critical for
 - Statistical Methods (Regression, ANOVA, t-test)
 
 ## 📁 Project Structure
-- `data/` → Dataset
-- `scripts/` → R code
-- `report/` → Final analysis report
-- `visuals/` → Graphs and charts
+- `R_Code/` → R code
+- `R Project Report/` → Final analysis report
+- `data2/` → Dataset
 
 ## 🚀 Outcome
 This project demonstrates end-to-end data analysis including data preparation, statistical modeling, and business insight generation.
